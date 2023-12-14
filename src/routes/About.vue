@@ -64,7 +64,7 @@ export default {
     border: 10px solid $gray-300;
     border-radius: 50%;
     box-sizing: border-box;
-    background-color: $gray-200;
+    background-color: white;
     img {
       width: 100%;
     }

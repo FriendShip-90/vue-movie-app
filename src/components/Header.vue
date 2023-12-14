@@ -87,7 +87,7 @@ header {
     padding: 6px;
     border-radius: 50%;
     box-sizing: border-box;
-    background: #e9ecef;
+    background: white;
     cursor: pointer;
     position: absolute;
     top: 50%;
